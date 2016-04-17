@@ -1,0 +1,11 @@
+USE myDb;
+
+CREATE TABLE [dbo].[Persons](
+[Id] [int] IDENTITY(1,1) NOT NULL,
+[Name] [nvarchar](50) NOT NULL,
+[Lastname] [nvarchar](50) NOT NULL,
+[Adres] [nvarchar](255) NOT NULL,
+[Wiek] [int] NULL);
+
+ALTER TABLE [dbo].[Persons]
+ADD CONSTRAINT PK_persons PRIMARY KEY CLUSTERED (Id);

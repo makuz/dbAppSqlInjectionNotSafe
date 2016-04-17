@@ -1,0 +1,18 @@
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\bin\dbApp.dll.config
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\bin\dbApp.dll
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\bin\dbApp.pdb
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\obj\Debug\dbApp.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\obj\Debug\dbApp.dll
+C:\Users\Marcin\Documents\Visual Studio 2013\Projects\dbApp\dbApp\obj\Debug\dbApp.pdb
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\bin\dbApp.dll.config
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\bin\dbApp.dll
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\bin\dbApp.pdb
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\obj\Debug\dbApp.csprojResolveAssemblyReference.cache
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\obj\Debug\dbApp.dll
+E:\Technologie Internetowe\asp\do oddania\dbApp\dbApp\obj\Debug\dbApp.pdb
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\bin\dbApp.dll.config
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\bin\dbApp.dll
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\bin\dbApp.pdb
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\obj\Debug\dbApp.csprojResolveAssemblyReference.cache
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\obj\Debug\dbApp.dll
+C:\Users\makuz\Desktop\asp webforms\dbApp\dbApp\obj\Debug\dbApp.pdb
